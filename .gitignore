@@ -1,0 +1,14 @@
+//.gitignore文件内容
+
+# window：          //指示win环境下忽略
+*.db              //所有后缀为.db忽略
+test
+
+
+
+# java：            //java环境下
+build
+*.class
+# My configurations:
+db.ini
+deploy_key_rsa
