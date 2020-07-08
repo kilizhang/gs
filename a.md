@@ -36,7 +36,7 @@ ClientAliveCountMax 86400
 systemctl restart sshd.service
 ```
 
-
+![a ajpg](<https://github.com/kilizhang/gs/blob/master/a.jpg>)
 
 ![区块列表 list](d:\Users\zx\Desktop\批注 2020-07-08 085832.png)
 
